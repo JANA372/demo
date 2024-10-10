@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "todo": "",
+      "id": 2
+    },
+    {
+      "todo": "1",
+      "id": 4
+    },
+    {
+      "todo": "jan",
+      "id": 5
+    },
+    {
+      "todo": "j",
+      "id": 6
+    },
+    {
+      "todo": "j",
+      "id": 7
+    },
+    {
+      "todo": "janani thansika",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
